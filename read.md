@@ -24,7 +24,8 @@
 
 ## Ссылки
 
-Здесь будет текст по ссылкам
+Чтобы добавить гиперссылку, достаточно написать следующее:
+[markdown statement](https://gist.github.com/Jekins/2bf2d0638163f1294637 "instructions for the markdown language")
 
 ## Цитаты
 
