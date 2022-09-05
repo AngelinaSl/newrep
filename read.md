@@ -42,4 +42,6 @@
 > This is a quote inside a list element.
 2. The second element of the list
 
+## Table
+
 ## Заключение
