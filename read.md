@@ -16,4 +16,8 @@
 >>Second citation level
 >>>Third citation level
 
+1. List item with quote:
+> This is a quote inside a list element.
+2. The second element of the list
+
 ## Заключение
